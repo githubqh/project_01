@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-我是本地t3 login
-=======
-
->>>>>>> 2d83d7f26efdfa3b69777a2379abd5e89b65b33b
+我的master的远端t3
